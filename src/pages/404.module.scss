@@ -1,0 +1,12 @@
+.contentContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 90vh;
+    
+    p {
+        font-size: 18px;
+        font-weight: bold;
+    }
+}
